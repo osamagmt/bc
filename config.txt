@@ -1,5 +1,6 @@
 token=NDcyMTYwOTkyMDU1Mzk0MzE0.Do7GFA.2lGn6geYDrq9kfHNx0L0Fh5__6c
-owner=474200581163057153,329881198828584963
+owner=474200581163057153
+owner=329881198828584963
 prefix=o
 game=Type ohelp
 stayinchannel=true
